@@ -104,7 +104,6 @@ def imageData():
 	img_path = img_path + '/' + img_name
 
 	return ("http://himawari8-dl.nict.go.jp/himawari8/img/D531106/1d/550/" + realtime_strf + "00_0_0.png",img_name,img_path)
-
 	
 def main():
 	print(STATEMENT)
