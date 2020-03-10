@@ -28,5 +28,7 @@ Email: taylorHafeez@163.com
 
 <br>
 
-![20200310.png](Img/20200310.png?raw=true)
+<div align=center>![20200310.png](Img/20200310.png?raw=true)</div>
+
+
 
